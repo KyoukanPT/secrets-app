@@ -12,5 +12,4 @@
 <li>After a succesful register/login, you will be able to submit your own secret. Which will be rendered on the "secrets" page</li>
 <li>Alternatively, you can also check which secrets have been submitted, without needing to register/login, by going here: https://kyoukanpt-secrets-app.herokuapp.com/secrets</li>
 <h4>Note: Only 1 secret can be submitted per user</h4>
-
 Live page --> https://kyoukanpt-secrets-app.herokuapp.com/
