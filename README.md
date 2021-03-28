@@ -9,7 +9,7 @@
 <h3>How to use the App?</h3>
 <li>If you already registered, go to https://kyoukanpt-secrets-app.herokuapp.com/login and use your credentials to login.</li>
 <li>In case you didn't register yet, do so here: https://kyoukanpt-secrets-app.herokuapp.com/register.</li>
-<li>After a succesful register/login, you will be able to submit your own secret. Which will be rendered on the "secrets" page.</li>
+<li>After a successful register/login, you will be able to submit your own secret. Which will be rendered on the "secrets" page.</li>
 <li>Alternatively, you can also check which secrets have been submitted, without needing to register/login, by going here: https://kyoukanpt-secrets-app.herokuapp.com/secrets.</li>
-<h4>Note: Only 1 secret can be submitted per user.</h4>
+<h4>Note: Only 1 secret can be submitted per user. If you submit another secret, the previous one will be deleted.</h4>
 Live page --> https://kyoukanpt-secrets-app.herokuapp.com/
