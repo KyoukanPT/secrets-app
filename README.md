@@ -4,7 +4,7 @@
 
 <h3>What's the goal of this App?</h3>
 <li>We all have secrets and sometimes it is a burden to keep them to ourselves.</li>
-<li>What if we could share our secrets, without exposing who's behind that secret?</li>
+<li>What if we could share our secrets without exposing who's behind that secret?</li>
 <li>Well now you can with <strong><em>Secrets</strong>. The App where you can share your secrets anonymously!</em></li> 
 <h3>How to use the App?</h3>
 <li>If you already registered, go to https://kyoukanpt-secrets-app.herokuapp.com/login and use your credentials to login.</li>
