@@ -13,3 +13,23 @@
 <li>Alternatively, you can also check which secrets have been submitted, without needing to register/login, by going here: https://kyoukanpt-secrets-app.herokuapp.com/secrets.</li>
 <h4>Note: Only 1 secret can be submitted per user. If you submit another secret, the previous one will be deleted.</h4>
 Live page --> https://kyoukanpt-secrets-app.herokuapp.com/
+
+
+<p>Instructions on how to download the source files and use the App: </p>
+
+<h3>Terminal (Chosen directory to clone the files - Recommended --> Desktop)</h3>
+
+1 - git clone https://github.com/KyoukanPT/secrets-app.git
+
+<hr>
+
+<h3>Initial Setup</h3>
+
+2 - Download and install <a href="https://nodejs.org/en/download"> Node.js </a> <br>
+3 - Download and install <a href="https://www.mongodb.com/docs/manual/installation/"> MongoDB </a><br>
+3 - Terminal: npm install mongoose --save<br>
+
+<hr>
+
+<h3>Browser (After the 4 first steps)</h3>
+8 - <a href="http://localhost:3000/">http://localhost:3000/</a>
