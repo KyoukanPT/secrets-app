@@ -1,20 +1,5 @@
 <h2>Secrets App</h2>
 
-<p>This a very simple Web App that I created in my spare time to test my MongoDB and Passport JS skills.</p>
-
-<h3>What's the goal of this App?</h3>
-<li>We all have secrets and sometimes it is a burden to keep them to ourselves.</li>
-<li>What if we could share our secrets without exposing who's behind that secret?</li>
-<li>Well now you can with <strong><em>Secrets</strong>. The App where you can share your secrets anonymously!</em></li> 
-<h3>How to use the App?</h3>
-<li>If you already registered, go to https://kyoukanpt-secrets-app.herokuapp.com/login and use your credentials to login.</li>
-<li>In case you didn't register yet, do so here: https://kyoukanpt-secrets-app.herokuapp.com/register.</li>
-<li>After a successful register/login, you will be able to submit your own secret. Which will be rendered on the "secrets" page.</li>
-<li>Alternatively, you can also check which secrets have been submitted, without needing to register/login, by going here: https://kyoukanpt-secrets-app.herokuapp.com/secrets.</li>
-<h4>Note: Only 1 secret can be submitted per user. If you submit another secret, the previous one will be deleted.</h4>
-Live page --> https://kyoukanpt-secrets-app.herokuapp.com/
-
-
 <p>Instructions on how to download the source files and use the App: </p>
 
 <h3>Terminal (Chosen directory to clone the files - Recommended --> Desktop)</h3>
@@ -31,5 +16,10 @@ Live page --> https://kyoukanpt-secrets-app.herokuapp.com/
 
 <hr>
 
-<h3>Browser (After the 4 first steps)</h3>
-8 - <a href="http://localhost:3000/">http://localhost:3000/</a>
+<h3>How to use the App?</h3>
+<li>The user will be first redirected to <bold>views/home.ejs</bold></li>
+<li>If the user is already registered, you should redirect the user to <bold>views/login.ejs</bold> where the credentials should be used to login.</li>
+<li>In case the user didn't register yet, you should redirect the user to <bold>views/register.ejs</bold></li>
+<li>After a successful register/login, the users should be redirected to <bold>views/secrets.ejs</bold> to be able to submit their own secret.</li>
+<li>If anyone wants to check which secrets have been submitted, without needing to register/login, they should be redirected to <bold>views/secrets.ejs</bold></li>
+<h4>Note: Only 1 secret can be submitted per user. If you submit another secret, the previous one will be deleted.</h4>
