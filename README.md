@@ -17,7 +17,7 @@
 <hr>
 
 <h3>How to use the App?</h3>
-<li>The user will be first redirected to <strong>views/home.ejs</strong>.</li>
+<li>The user should be first redirected to <strong>views/home.ejs</strong>.</li>
 <li>If the user is already registered, you should redirect the user to <strong>views/login.ejs</strong> where the credentials should be used to login.</li>
 <li>In case the user didn't register yet, you should redirect the user to <strong>views/register.ejs</strong>.</li>
 <li>After a successful register/login, the users should be redirected to <strong>views/secrets.ejs</strong> to be able to submit their own secret.</li>
