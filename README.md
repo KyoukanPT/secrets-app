@@ -11,8 +11,9 @@
 <h3>Initial Setup</h3>
 
 2 - Download and install <a href="https://nodejs.org/en/download"> Node.js </a> <br>
-3 - Download and install <a href="https://www.mongodb.com/docs/manual/installation/"> MongoDB </a><br>
-3 - Terminal: npm install mongoose --save<br>
+3 - Terminal: npm install express <br>
+4 - Download and install <a href="https://www.mongodb.com/docs/manual/installation/"> MongoDB </a><br>
+5 - Terminal: npm install mongoose --save<br>
 
 <hr>
 
