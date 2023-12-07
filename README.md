@@ -36,6 +36,8 @@
 - Line 27 (app.js) - Replace <strong>/yourDatabaseName</strong> with the name that you want to give to your database <br>
 - Follow this Atlas tutorial to learn how to get started - <strong>https://docs.atlas.mongodb.com/getting-started/</strong> <br>
 
+<hr>
+
 <h3>How to use the App?</h3>
 - The user should be first redirected to <strong>views/home.ejs</strong>.<br>
 - If the user is already registered, you should redirect the user to <strong>views/login.ejs</strong> where the credentials should be used to login.<br>
