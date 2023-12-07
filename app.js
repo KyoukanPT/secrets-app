@@ -24,7 +24,7 @@ app.use(session({
 app.use(passport.initialize());
 app.use(passport.session());
 
-mongoose.connect("mongodb+srv://admin-tiago:uku3p8uero@cluster0.2h90q.mongodb.net/userDB", { useNewUrlParser: true, useUnifiedTopology: true, useCreateIndex: true });
+mongoose.connect("mongodb+srv://<ADMIN>:<PASSWORD>@cluster0.2h90q.mongodb.net/yourDatabaseName", { useNewUrlParser: true, useUnifiedTopology: true, useCreateIndex: true });
 
 const db = mongoose.connection;
 db.once("error", console.error.bind(console, "connection error"));
