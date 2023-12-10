@@ -49,3 +49,8 @@
 - After a successful register/login, the users should be redirected to <strong>views/secrets.ejs</strong> to be able to submit their own secret.<br>
 - If anyone wants to check which secrets have been submitted, without needing to register/login, they should be redirected to <strong>views/secrets.ejs</strong>.<br>
 <h4>Note: Only 1 secret can be submitted per user. If you submit another secret, the previous one will be deleted.</h4>
+
+<hr>
+
+<h3>Browser (After Step 6)</h3>
+7 - <a href="http://localhost:3000/">http://localhost:3000/</a>
