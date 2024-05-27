@@ -16,7 +16,7 @@
 
 <h3>Project Folder Directory (Terminal)</h3>
 
-3 - node app.js
+3 - node app.js <br>
 4 - npm install express <br>
 
 
