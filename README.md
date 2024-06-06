@@ -21,15 +21,18 @@
 5 - npm install <a href="https://ejs.co/"> EJS </a> <br>
 6 - npm install <a href="https://www.npmjs.com/package/body-parser"> Body Parser </a> <br>
 7 - npm install <a href="https://www.npmjs.com/package/mongoose"> Mongoose </a> <br>
-9 - node app.js
+8 - npm install <a href="https://www.npmjs.com/package/dotenv"> Dotenv </a> <br>
+9 - npm install <a href="https://www.npmjs.com/package/express-session"> Express Session </a> <br>
+10 - npm install <a href="https://www.npmjs.com/package/mongoose-find-or-create"> Mongoose Find Or Create </a> <br>
+11 - node app.js
 
 
 <hr>
 
 <h3>How to use this App locally (In Your Computer)</h3>
-4 - Replace the code in line 27 (app.js) with the following: <strong>mongoose.connect('mongodb://localhost:27017/yourDatabaseName', {useNewUrlParser: true, useUnifiedTopology: true});<br></strong>
-5 - Open a new terminal tab and run the following command: <strong>mongod</strong><br>
-6 - After you successfully connect to MongoDB (Step 5), open another new terminal tab and run the following command: <strong>mongo</strong><br><br>
+12 - Replace the code in line 27 (app.js) with the following: <strong>mongoose.connect('mongodb://localhost:27017/yourDatabaseName', {useNewUrlParser: true, useUnifiedTopology: true});<br></strong>
+13 - Open a new terminal tab and run the following command: <strong>mongod</strong><br>
+14 - After you successfully connect to MongoDB (Step 5), open another new terminal tab and run the following command: <strong>mongo</strong><br><br>
 
 <hr>
 
