@@ -24,6 +24,8 @@
 8 - npm install <a href="https://www.npmjs.com/package/dotenv"> Dotenv </a> <br>
 9 - npm install <a href="https://www.npmjs.com/package/express-session"> Express Session </a> <br>
 10 - npm install <a href="https://www.npmjs.com/package/mongoose-find-or-create"> Mongoose Find Or Create </a> <br>
+11 - npm install <a href="https://www.npmjs.com/package/passport"> Passport </a> <br>
+12 - npm install <a href="https://www.npmjs.com/package/passport-facebook"> Passport Facebook </a> <br>
 11 - node app.js
 
 
