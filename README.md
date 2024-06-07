@@ -26,15 +26,17 @@
 10 - npm install <a href="https://www.npmjs.com/package/mongoose-find-or-create"> Mongoose Find Or Create </a> <br>
 11 - npm install <a href="https://www.npmjs.com/package/passport"> Passport </a> <br>
 12 - npm install <a href="https://www.npmjs.com/package/passport-facebook"> Passport Facebook </a> <br>
-11 - node app.js
+13 - npm install <a href="https://www.npmjs.com/package/passport-google-oauth20"> Passport Google Auth 2.0 </a> <br>
+14 - npm install <a href="https://www.npmjs.com/package/passport-local-mongoose"> Passport Local Mongoose </a> <br>
+15 - node app.js
 
 
 <hr>
 
 <h3>How to use this App locally (In Your Computer)</h3>
-12 - Replace the code in line 27 (app.js) with the following: <strong>mongoose.connect('mongodb://localhost:27017/yourDatabaseName', {useNewUrlParser: true, useUnifiedTopology: true});<br></strong>
-13 - Open a new terminal tab and run the following command: <strong>mongod</strong><br>
-14 - After you successfully connect to MongoDB (Step 5), open another new terminal tab and run the following command: <strong>mongo</strong><br><br>
+16 - Replace the code in line 27 (app.js) with the following: <strong>mongoose.connect('mongodb://localhost:27017/yourDatabaseName', {useNewUrlParser: true, useUnifiedTopology: true});<br></strong>
+17 - Open a new terminal tab and run the following command: <strong>mongod</strong><br>
+18 - After you successfully connect to MongoDB (Step 5), open another new terminal tab and run the following command: <strong>mongo</strong><br><br>
 
 <hr>
 
@@ -61,5 +63,5 @@
 
 <hr>
 
-<h3>Browser (After Step 6)</h3>
+<h3>Browser (After Step 15)</h3>
 7 - <a href="http://localhost:3000/">http://localhost:3000/</a>
