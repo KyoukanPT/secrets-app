@@ -54,12 +54,10 @@
 <hr>
 
 <h3>How to use the App?</h3>
-- After all the above steps, go to <a href="http://localhost:3000/">Localhost</a>.
-
-<h5>Instructions:</h5>
-- The user should be first redirected to <strong>views/home.ejs</strong>.<br>
-- If the user is already registered, you should redirect the user to <strong>views/login.ejs</strong> where the credentials should be used to login.<br>
-- In case the user didn't register yet, you should redirect the user to <strong>views/register.ejs</strong>.<br>
-- After a successful register/login, the users should be redirected to <strong>views/secrets.ejs</strong> to be able to submit their own secret.<br>
-- If anyone wants to check which secrets have been submitted, without needing to register/login, they should be redirected to <strong>views/secrets.ejs</strong>.<br>
-<h6>Note: Only 1 secret can be submitted per user. If you submit another secret, the previous one will be deleted.</h4>
+<p> - After all the above steps, go to <a href="http://localhost:3000/">Localhost</a>.</p>
+<p> - The user should be first redirected to <strong>views/home.ejs</strong>.</p>
+<p> - If the user is already registered, you should redirect the user to <strong>views/login.ejs</strong> where the credentials should be used to login.</p>
+<p> - In case the user didn't register yet, you should redirect the user to <strong>views/register.ejs</strong>.</p>
+<p> - After a successful register/login, the users should be redirected to <strong>views/secrets.ejs</strong> to be able to submit their own secret.</p>
+<p> - If anyone wants to check which secrets have been submitted, without needing to register/login, they should be redirected to <strong>views/secrets.ejs</strong>.</p>
+<h6>Note: Only 1 secret can be submitted per user. If you submit another secret, the previous one will be deleted.</h6>
