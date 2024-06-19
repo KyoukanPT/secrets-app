@@ -1,4 +1,4 @@
-<h2>Secrets App</h2>
+ <h2>Secrets App</h2>
 
 <p>Instructions on how to download the source files and use the App: </p>
 
@@ -29,7 +29,6 @@
 13 - npm install <a href="https://www.npmjs.com/package/passport-google-oauth20"> Passport Google Auth 2.0 </a> <br>
 14 - npm install <a href="https://www.npmjs.com/package/passport-local-mongoose"> Passport Local Mongoose </a> <br>
 15 - node app.js <br>
-
 
 <hr>
 
