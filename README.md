@@ -64,4 +64,4 @@
 <hr>
 
 <h3>Browser</h3>
-- After all the above steps, go to <a href="http://localhost:3000/">Localhost</a>
+- After all the above steps, go to <a href="http://localhost:3000/">Localhost</a>.
