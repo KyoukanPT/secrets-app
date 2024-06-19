@@ -63,5 +63,5 @@
 
 <hr>
 
-<h3>Browser (After Step 18)</h3>
-7 - <a href="http://localhost:3000/">http://localhost:3000/</a>
+<h3>Browser</h3>
+- After all the above steps, go to <a href="http://localhost:3000/">Localhost</a>
