@@ -4,38 +4,38 @@
 
 <h3>Terminal (Chosen directory to clone the files - Recommended --> Desktop)</h3>
 
-1 - git clone https://github.com/KyoukanPT/secrets-app.git
+- git clone https://github.com/KyoukanPT/secrets-app.git
 
 <hr>
 
 <h3>Node Installation</h3>
  
- 2 - Download and install <a href="https://nodejs.org/en/download"> Node.js </a> <br> 
+- Download and install <a href="https://nodejs.org/en/download"> Node.js </a> <br> 
 
 <hr>
 
 <h3>Project Folder Directory (Terminal)</h3>
 
-3 - npm install<br>
-4 - npm install <a href="https://expressjs.com/en/starter/installing.html"> Express </a> <br>
-5 - npm install <a href="https://ejs.co/"> EJS </a> <br>
-6 - npm install <a href="https://www.npmjs.com/package/body-parser"> Body Parser </a> <br>
-7 - npm install <a href="https://www.npmjs.com/package/mongoose"> Mongoose </a> <br>
-8 - npm install <a href="https://www.npmjs.com/package/dotenv"> Dotenv </a> <br>
-9 - npm install <a href="https://www.npmjs.com/package/express-session"> Express Session </a> <br>
-10 - npm install <a href="https://www.npmjs.com/package/mongoose-find-or-create"> Mongoose Find Or Create </a> <br>
-11 - npm install <a href="https://www.npmjs.com/package/passport"> Passport </a> <br>
-12 - npm install <a href="https://www.npmjs.com/package/passport-facebook"> Passport Facebook </a> <br>
-13 - npm install <a href="https://www.npmjs.com/package/passport-google-oauth20"> Passport Google Auth 2.0 </a> <br>
-14 - npm install <a href="https://www.npmjs.com/package/passport-local-mongoose"> Passport Local Mongoose </a> <br>
-15 - node app.js <br>
+- npm install<br>
+- npm install <a href="https://expressjs.com/en/starter/installing.html"> Express </a> <br>
+- npm install <a href="https://ejs.co/"> EJS </a> <br>
+- npm install <a href="https://www.npmjs.com/package/body-parser"> Body Parser </a> <br>
+- npm install <a href="https://www.npmjs.com/package/mongoose"> Mongoose </a> <br>
+- npm install <a href="https://www.npmjs.com/package/dotenv"> Dotenv </a> <br>
+- npm install <a href="https://www.npmjs.com/package/express-session"> Express Session </a> <br>
+- npm install <a href="https://www.npmjs.com/package/mongoose-find-or-create"> Mongoose Find Or Create </a> <br>
+- npm install <a href="https://www.npmjs.com/package/passport"> Passport </a> <br>
+- npm install <a href="https://www.npmjs.com/package/passport-facebook"> Passport Facebook </a> <br>
+- npm install <a href="https://www.npmjs.com/package/passport-google-oauth20"> Passport Google Auth 2.0 </a> <br>
+- npm install <a href="https://www.npmjs.com/package/passport-local-mongoose"> Passport Local Mongoose </a> <br>
+- node app.js <br>
 
 <hr>
 
 <h3>How to use this App locally (In Your Computer)</h3>
-16 - Replace the code in line 27 (app.js) with the following: <strong>mongoose.connect('mongodb://localhost:27017/yourDatabaseName', {useNewUrlParser: true, useUnifiedTopology: true});<br></strong>
-17 - Open a new terminal tab and run the following command: <strong>mongod</strong><br>
-18 - After you successfully connect to MongoDB, open another new terminal tab and run the following command: <strong>mongo</strong><br><br>
+- Replace the code in line 27 (app.js) with the following: <strong>mongoose.connect('mongodb://localhost:27017/yourDatabaseName', {useNewUrlParser: true, useUnifiedTopology: true});</strong><br>
+- Open a new terminal tab and run the following command: <strong>mongod</strong><br>
+- After you successfully connect to MongoDB, open another new terminal tab and run the following command: <strong>mongo</strong><br><br>
 
 <hr>
 
